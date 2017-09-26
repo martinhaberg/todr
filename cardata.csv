@@ -1,0 +1,27 @@
+"Audi RS6 plus",              22, 2004, 174, 4.4, 82, 4WD, PER, 2, yes, yes
+"BMW M1",                     15, 1978, 163, 5.5, 75, RWD, PER, 1, no, no
+"BMW M5",                     18, 1996, 155, 4.9, 79, RWD, PER, 2, yes, yes
+"BMW X5 40e (PHEV)",          18, 2016, 130, 6.8, 69, 4WD, ALL, 3, yes, yes
+"BMW Z8",                     19, 2000, 155, 4.5, 77, RWD, PER, 1, yes, yes
+"Chevrolet Camaro Z/28",      23, 2016, 187, 4.0, 87, RWD, PER, 2, yes, yes
+"Chevrolet Trailblazer SS",   16, 2006, 142, 5.6, 62, 4WD, ALL, 3, yes, yes
+"Chevrolet Trailblazer SS",   16, 2006, 142, 5.6, 62, 4WD, ALL, 3, yes, yes
+"Datsun 240Z Rally Car",      16, 1969, 144, 6.3, 80, RWD, OFF, 1, no, no
+"Ford Focus ST",              16, 2017, 150, 6.5, 84, FWD, PER, 2, yes, yes
+"Ford RS200",                 20, 1984, 142, 4.8, 81, 4WD, PER, 1, no, no
+"Honda NSX",                  18, 1990, 168, 5.7, 84, RWD, PER, 1, no, yes
+"Hummer H3T",                 18, 2009,  97, 9.3, 65, 4WD, OFF, 3, yes, yes
+"Infiniti QX50",              16, 2016, 137, 6.4, 79, RWD, ALL, 3, yes, yes
+"Lotus Elise 111S",           16, 2002, 132, 4.8, 80, RWD, PER, 1, no, yes
+"Lotus Elise Sport 135",      16, 2003, 129, 5.1, 85, RWD, PER, 1, no, yes
+"McLaren 12C",                25, 2011, 207, 3.0, 89, RWD, PER, 1, yes, yes
+"Mercedes-Benz S 350 4MATIC", 16, 2007, 152, 7.5, 71, 4WD, STD, 2, yes, yes
+"Mercedes-Benz C 350e",       18, 2015, 155, 5.6, 75, RWD, STD, 2, yes, yes
+"Mercedes-Benz CLS 400",      21, 2015, 155, 5.1, 78, RWD, STD, 2, yes, yes
+"Mini John Cooper Works",     16, 2016, 153, 6.0, 80, FWD, PER, 2, yes, yes
+"Nissan Murano GT-C",         19, 2002, 140, 7.7, 77, 4WD, ALL, 3, yes, yes
+"Nissan X-Trail",             15, 2016, 116, 10.5, 78, 4WD, ALL, 3, yes, yes
+"Subaru Levorg",              15, 2016, 130, 8.9, 78, 4WD, ALL, 2, yes, yes
+"Subaru WRX STI",             18, 2014, 159, 5.2, 85, 4WD, PER, 2, yes, yes
+"Vauxhall VX220",             16, 2000, 135, 5.6, 80, RWD, PER, 1, no, yes
+"Volvo 850 AWD",              14, 1997, 137, 7.2, 73, 4WD, STD, 2, yes, yes
