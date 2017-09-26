@@ -1,0 +1,86 @@
+"Acura Legend 3.2 V6",        10, 1990, 140, 8.2, 75, FWD, STD, 2, no, yes
+"Acura Integra GS-R",         11, 1990, 133, 7.1, 77, FWD, PER, 1, no, no
+"Acura NSX-T",                19, 1990, 168, 5.0, 85, RWD, PER, 1, yes, yes
+"Acura NSX",                  25, 2016, 191, 2.9, 90, 4WD, PER, 1, yes, yes
+"Audi quattro",               11, 1980, 138, 6.6, 74, 4WD, PER, 2, no, no
+"Audi quattro 20V",           14, 1990, 143, 6.0, 77, 4WD, PER, 2, no, yes
+"Audi R8 Spyder V10",         24, 2013, 194, 3.9, 87, 4WD, PER, 1, yes, yes
+"Audi R8 Coupe V10 plus",     25, 2015, 205, 3.1, 88, 4WD, PER, 1, yes, yes
+"Audi RS2 Avant",             20, 1994, 163, 5.1, 80, 4WD, PER, 2, no, yes
+"Audi RS3 Sportback",         24, 2015, 155, 4.1, 85, 4WD, PER, 2, yes, yes
+"Audi RS4 Avant",             22, 2000, 155, 4.5, 83, 4WD, PER, 2, yes, yes
+"Audi RS4 Avant",             22, 2006, 155, 4.7, 84, 4WD, PER, 2, yes, yes
+"Audi RS5 Cabriolet",         22, 2012, 155, 4.7, 85, 4WD, PER, 2, yes, yes
+"Audi RS6 plus",              22, 2004, 174, 4.4, 82, 4WD, PER, 2, yes, yes
+"Audi RS6 Avant",             25, 2013, 174, 3.7, 86, 4WD, PER, 2, yes, yes
+"Audi RS7 Sportback",         24, 2015, 155, 3.7, 85, 4WD, PER, 2, yes, yes
+"Audi RS Q3",                 22, 2015, 155, 4.6, 82, 4WD, PER, 3, yes, yes
+"Audi S1",                    19, 2014, 155, 5.5, 81, 4WD, PER, 2, yes, yes
+"Audi S2 Coupe",              17, 1993, 154, 5.5, 77, 4WD, PER, 2, no, yes
+"Audi S3",                    19, 2006, 155, 5.4, 82, 4WD, PER, 2, yes, yes
+"Audi S4",                    19, 1998, 155, 5.3, 80, 4WD, PER, 2, yes, yes
+"Audi S4",                    22, 2012, 155, 4.8, 83, 4WD, PER, 2, yes, yes
+"Audi S4 Avant",              20, 2004, 155, 5.3, 82, 4WD, PER, 2, yes, yes
+"Audi S5 Coupe",              22, 2008, 155, 4.9, 84, 4WD, PER, 2, yes, yes
+"Audi S6",                    14, 1999, 150, 6.4, 75, 4WD, PER, 2, no, yes
+"Audi S6",                    19, 2006, 155, 5.5, 79, 4WD, PER, 2, yes, yes
+"Audi S8",                    21, 2006, 155, 4.9, 81, 4WD, PER, 2, yes, yes
+"Audi S8 plus",               24, 2013, 155, 3.6, 85, 4WD, PER, 2, yes, yes
+"Audi Sport quattro S1",      24, 1986, 155, 3.0, 89, 4WD, OFF, 2, no, no
+"Audi SQ5",                   25, 2015, 155, 4.8, 81, 4WD, ALL, 3, yes, yes
+"Audi TT RS Coupe",           24, 2012, 174, 4.1, 84, 4WD, PER, 2, yes, yes
+"Audi TTS Coupe",             22, 2015, 155, 4.4, 85, 4WD, PER, 2, yes, yes
+"BMW 728i",                    7, 1977, 125, 8.7, 70, RWD, STD, 2, no, yes
+"BMW M1",                     15, 1978, 163, 5.5, 75, RWD, PER, 1, no, no
+"BMW M5",                     18, 1996, 155, 4.9, 79, RWD, PER, 2, yes, yes
+"BMW X5 40e (PHEV)",          18, 2016, 130, 6.8, 69, 4WD, ALL, 3, yes, yes
+"BMW X5 M50d",                24, 2016, 155, 5.3, 75, 4WD, ALL, 3, yes, yes
+"BMW Z8",                     19, 2000, 155, 4.5, 77, RWD, PER, 1, yes, yes
+"Bugatti Chiron",             25, 2017, 261, 2.4, 91, 4WD, PER, 1, yes, yes
+"Bugatti Veyron 16.4",        25, 2005, 253, 2.4, 89, 4WD, PER, 1, yes, yes
+"Bugatti Veyron 16.4 Grand Sport",25,2009,253,2.3,89, 4WD, PER, 1, yes, yes
+"Bugatti Veyron 16.4 Super Sport",25,2010,258,2.4,90, 4WD, PER, 1, yes, yes
+"Buick Enclave",              18, 2008, 108, 7.9, 77, 4WD, ALL, 3, yes, yes
+"Cadillac CTS-V",             23, 2015, 200, 3.7, 84, RWD, PER, 2, yes, yes
+"Caterham RS Levante",        24, 2008, 150, 2.9, 90, RWD, PER, 1, no, no
+"Chevrolet Camaro Z/28",      23, 2016, 187, 4.0, 87, RWD, PER, 2, yes, yes
+"Chevrolet Corvette Z06",     24, 2016, 185, 3.1, 89, RWD, PER, 1, yes, yes
+"Chevrolet Trailblazer SS",   16, 2006, 142, 5.6, 62, 4WD, ALL, 3, yes, yes
+"Citroen C-Crosser 2.2 L HDi",15, 2007, 124, 9.6, 70, 4WD, ALL, 3, yes, yes
+"Datsun 240Z Rally Car",      16, 1969, 144, 6.3, 80, RWD, OFF, 1, no, no
+"DS 3 Performance",           17, 2016, 143, 6.3, 85, FWD, PER, 2, yes, yes
+"Ford Focus ST",              16, 2017, 150, 6.5, 84, FWD, PER, 2, yes, yes
+"Ford GT",                    24, 2017, 216, 3.1, 90, RWD, PER, 1, yes, yes
+"Ford RS200",                 20, 1984, 142, 4.8, 81, 4WD, PER, 1, no, no
+"GMC Yukon",                  21, 2010, 112, 5.8, 75, 4WD, ALL, 3, yes, yes
+"Honda NSX",                  18, 1990, 168, 5.7, 84, RWD, PER, 1, no, yes
+"Honda NSX-R",                20, 1990, 174, 4.7, 86, RWD, PER, 1, yes, yes
+"Hummer H3T",                 18, 2009,  97, 9.3, 65, 4WD, OFF, 3, yes, yes
+"Infiniti QX50",              16, 2016, 137, 6.4, 79, RWD, ALL, 3, yes, yes
+"Infiniti Q60",               22, 2016, 155, 4.8, 83, 4WD, PER, 2, yes, yes
+"KTM X-Box GT4",              24, 2016, 160, 3.6, 90, RWD, PER, 1, yes, yes
+"Lotus Elise 111S",           16, 2002, 132, 4.8, 80, RWD, PER, 1, no, yes
+"Lotus Elise Sport 135",      16, 2003, 129, 5.1, 85, RWD, PER, 1, no, yes
+"Lotus Exige S",              23, 2015, 170, 3.6, 88, RWD, PER, 1, yes, yes
+"McLaren 12C",                25, 2011, 207, 3.0, 89, RWD, PER, 1, yes, yes
+"McLaren P1",                 25, 2014, 217, 2.7, 95, RWD, PER, 1, yes, yes
+"Mercedes-AMG SLS Black Series",24,2013,196, 3.5, 89, RWD, PER, 1, yes, yes
+"Mercedes-Benz S 350 4MATIC", 16, 2007, 152, 7.5, 71, 4WD, STD, 2, yes, yes
+"Mercedes-Benz C 350e",       18, 2015, 155, 5.6, 75, RWD, STD, 2, yes, yes
+"Mercedes-Benz CLS 400",      21, 2015, 155, 5.1, 78, RWD, STD, 2, yes, yes
+"Mini John Cooper Works",     16, 2016, 153, 6.0, 80, FWD, PER, 2, yes, yes
+"Mini JCW ALL4 Countryman",   19, 2016, 142, 6.6, 71, 4WD, ALL, 3, yes, yes
+"Mitsubishi Lancer Evolution X FQ-400",24,2008,175,3.2,87,4WD,PER,2,no, yes
+"Nissan GT-R Nismo",          25, 2016, 196, 2.8, 87, 4WD, PER, 1, yes, yes
+"Nissan Murano GT-C",         19, 2002, 140, 7.7, 77, 4WD, ALL, 3, yes, yes
+"Nissan X-Trail",             15, 2016, 116, 10.5, 78, 4WD, ALL, 3, yes, yes
+"Pagani Zonda Cinque Roadster",25,2009, 225, 3.3, 90, RWD, PER, 1, yes, yes
+"Renault R5 MAXI TURBO",      22, 1987, 145, 4.1, 84, RWD, PER, 1, no, no
+"Smart Fortwo Coupe T",        6, 2016,  96, 9.3, 63, RWD, STD, 2, yes, yes
+"Subaru Levorg",              15, 2016, 130, 8.9, 78, 4WD, ALL, 2, yes, yes
+"Subaru WRX STI",             18, 2014, 159, 5.2, 85, 4WD, PER, 2, yes, yes
+"TVR Cerbera Speed 12",       24, 2000, 230, 3.5, 88, RWD, PER, 1, no, no
+"Vauxhall VX220",             16, 2000, 135, 5.6, 80, RWD, PER, 1, no, yes
+"Vauxhall VXR8 GTS",          20, 2016, 155, 4.0, 81, RWD, PER, 2, yes, yes
+"Volvo 850 AWD",              14, 1997, 137, 7.2, 73, 4WD, STD, 2, yes, yes
+"Volvo 850 BTCC",             22, 1994, 150, 4.0, 95, FWD, SLI, 1, no, no
